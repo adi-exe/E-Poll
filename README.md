@@ -6,14 +6,16 @@ tamper-proof voting platform, thus reducing corruption in the Indian electoral
 process. This decentralized voting system operates on the Polygon & Solidity blockchain
 network, ensuring fast and cost-effective transactions.
 
-## Live Demo
+## Getting Started
 
-![Screenshot (180)](https://github.com/adi-exe/E-Poll/assets/134140404/e9710a0d-88d0-437c-924e-897faf20a675)
-![Screenshot (181)](https://github.com/adi-exe/E-Poll/assets/134140404/4a04c3d2-7558-4303-89d9-210823a45952)
-![Screenshot (182)](https://github.com/adi-exe/E-Poll/assets/134140404/56ba1357-f77c-4a04-b1a1-6636b61340ec)
-![Screenshot (183)](https://github.com/adi-exe/E-Poll/assets/134140404/57efee6b-3f24-4b6d-b67e-2b74b7bc75d5)
-![Screenshot (184)](https://github.com/adi-exe/E-Poll/assets/134140404/23acac2a-f910-4d38-86bf-acccfa9e1a84)
+To set up Adhikaar locally and contribute to its development, follow these
+steps:
 
+1. Clone the repository:
+   `git clone https://github.com/adi-exe/E-Poll.git`
+2. Navigate to the project directory: `cd E-Poll`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm Start`
 
 
 
@@ -54,16 +56,18 @@ experience and ensuring the integrity of the electoral process:
 - **Immutable Records:** All voting records are stored on the Polygon blockchain
   and can be audited by anyone, ensuring the integrity of the electoral data.
 
-## Getting Started
 
-To set up Adhikaar locally and contribute to its development, follow these
-steps:
 
-1. Clone the repository:
-   `git clone https://github.com/adi-exe/E-Poll.git`
-2. Navigate to the project directory: `cd E-Poll`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm Start`
+## Live Demo
+
+![Screenshot (180)](https://github.com/adi-exe/E-Poll/assets/134140404/e9710a0d-88d0-437c-924e-897faf20a675)
+![Screenshot (181)](https://github.com/adi-exe/E-Poll/assets/134140404/4a04c3d2-7558-4303-89d9-210823a45952)
+![Screenshot (182)](https://github.com/adi-exe/E-Poll/assets/134140404/56ba1357-f77c-4a04-b1a1-6636b61340ec)
+![Screenshot (183)](https://github.com/adi-exe/E-Poll/assets/134140404/57efee6b-3f24-4b6d-b67e-2b74b7bc75d5)
+![Screenshot (184)](https://github.com/adi-exe/E-Poll/assets/134140404/23acac2a-f910-4d38-86bf-acccfa9e1a84)
+
+   
+
 
 ## Contact Us
 
