@@ -1,0 +1,72 @@
+.navbar {
+  background-color: #5d001e;
+}
+
+.head {
+  color: #e3e2df;
+  position: relative;
+  white-space: nowrap;
+  font-family: "Niconne", cursive;
+  font-weight: 700;
+  text-shadow: 2px 2px 0px #eb452b, 4px 4px 0px #efa032, 6px 6px 0px #46b59b,
+    8px 8px 0px #017e7f, 10px 10px 0px #052939, 12px 12px 0px #c11a2b,
+    14px 14px 0px #c11a2b, 16px 16px 0px #c11a2b, 18px 18px 0px #c11a2b;
+}
+
+.btn1 {
+  background-color: #9a1750;
+  border: 1px solid #e3e2df;
+  font-size: 25px;
+  box-shadow: 7px 7px 2px black;
+}
+.btn1:hover {
+  background-color: #ee4c7c;
+  border: 2px solid black;
+}
+.img1 img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-primary {
+  background-color: #ee4c7c;
+}
+.btn-primary:hover {
+  background-color: #9a1750;
+}
+.footer footer {
+  background-color: #9a1750;
+}
+.nav {
+  margin-left: 30px;
+  font-family: roboto;
+}
+.nav h2 {
+  color: #e3e2df;
+  display: flex;
+}
+.nav span {
+  color: #ee4c7c;
+  display: flex;
+}
+.nav h3 {
+  font-size: 1.2rem;
+  margin-left: 60%;
+  display: flex;
+}
+.nav a {
+  color: #d3d3d3;
+  font-weight: bold;
+  font-family: Roboto;
+  font-size: 1.2rem;
+}
+.btn-primary {
+  border: 2px dashed black;
+}
+.btn-primary:hover {
+  border: 1.5px solid black;
+}
+.btn-outline-secondary:hover {
+  border: 1.5px solid black;
+}
+.lead span {
+  font-weight: 500;
+}
