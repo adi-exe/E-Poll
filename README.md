@@ -8,7 +8,7 @@ network, ensuring fast and cost-effective transactions.
 
 ## Getting Started
 
-To set up Adhikaar locally and contribute to its development, follow these
+To set up E-Poll locally and contribute to its development, follow these
 steps:
 
 1. Clone the repository:
